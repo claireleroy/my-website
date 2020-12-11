@@ -16,13 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- Public Economics
-- Applied microeconomics
-
-contact:
-- 5 Avenue Henry Le Chatelier, 91120 Palaiseau (FR)
-- mailto:claire.leroy@ensae.fr
+#interests:
+#- Public Economics
+#- Applied Microeconomics
 
 # education:
 #  courses:
@@ -39,9 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:claire.leroy@ensae.fr
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/c_leroy_
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,4 +63,10 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Economics at [CREST](http://crest.science/) - [Ecole Polytechnique](https://www.polytechnique.edu/en) ([IP Paris](https://www.ip-paris.fr/en)) working under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Antoine Bozio](http://www.parisschoolofeconomics.com/bozio-antoine/en/). My research interests are in public economics and applied microeconomics. I'm specifically interested in the implication of information frictions and complexity for public policies design.
+
+<p>&nbsp;</p>
+
+
+I am a PhD candidate in Economics at [CREST](http://crest.science/) - [Ecole Polytechnique](https://www.polytechnique.edu/en) ([IP Paris](https://www.ip-paris.fr/en)) working under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Antoine Bozio](http://www.parisschoolofeconomics.com/bozio-antoine/en/).
+
+My research interests are in public economics and applied microeconomics. I'm specifically interested in the implication of information frictions and complexity for public policies design.
