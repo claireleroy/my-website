@@ -10,8 +10,8 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: CREST/Ecole Polytechnique/IP Paris
-  url: "https://www.ip-paris.fr/en"
+- name: CREST/Ecole Polytechnique
+  url: "http://crest.science/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
