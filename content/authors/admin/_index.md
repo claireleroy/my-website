@@ -14,11 +14,11 @@ organizations:
   url: "https://www.ip-paris.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 - Public Economics
-- Behavioral Economics
+- Applied microeconomics
 
 # education:
 #  courses:
@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Economics.
+I am a PhD candidate in Economics at [CREST](http://crest.science/)-[Ecole Polytechnique](https://www.polytechnique.edu/en) ([IP Paris](https://www.ip-paris.fr/en)) working under the supervision of Pr.Pierre Boyer and Pr. Antoine Bozio. My research interests are in public economics and applied microeconomics. I'm specifically interested in the implication for public policies of information frictions and complexity.
