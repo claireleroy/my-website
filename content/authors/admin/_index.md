@@ -20,6 +20,10 @@ interests:
 - Public Economics
 - Applied microeconomics
 
+contact:
+- 5 Avenue Henry Le Chatelier, 91120 Palaiseau (FR)
+- mailto:claire.leroy@ensae.fr
+
 # education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
