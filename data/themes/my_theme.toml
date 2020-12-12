@@ -5,13 +5,13 @@ name = "Ocean"
 light = true
 
 # Primary
-primary = "#3f51b5"
+primary = "#3f51b5" # couleur des liens cliquables
 
 # Menu
-menu_primary = "#3f51b5" # Material 500
-menu_text = "#fff"
-menu_text_active = "#ffeb3b" # Material Complemantary 500
-menu_title = "#fff"
+menu_primary = "#3f51b5" # couleur du bandeau home section
+menu_text = "#fff" # couleur des home sections non cliquées
+menu_text_active = "#F0E68C" # couleur des home sections quand cliquées
+menu_title = "#fff" # couleur des home sections non cliquées
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
