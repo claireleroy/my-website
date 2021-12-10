@@ -12,4 +12,5 @@ view: 4
 header:
   caption: ""
   image: ""
+  show_related: false
 ---
