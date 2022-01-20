@@ -4,12 +4,13 @@
 title: "The Non Take-up to Means-Tested Social Benefits"
 summary: ""
 authors: ["Claire Leroy"]
-tags: [""]
+tags: [take-up]
 categories: []
 date: 2021-16-10
 profile: false
 
 # Optional external URL for project (replaces project detail page).
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "static/media/BBFGLM_march_2021.pdf"
 url_slides: "" #""
 url_video: ""
 

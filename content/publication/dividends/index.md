@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Follow the Money! Combining Household and Firm-Level Evidence to Unravel the Tax Elasticity of Dividends"
-summary: "" #"We estimate the tax elasticity of dividends using two recent French reforms: a hike in the dividend tax rate followed, five years later, by a cut. To follow the cash movements within the balance sheets of households and firms caused by these reforms, we use newly-accessible personal and corporate tax registries. Following the tax increase, the elasticity of dividends equals four and there is no shifting towards other personal income categories. We find instead an increase in companies’ spending. After the tax decrease, payouts revert to their initial level, but not enough to offset the amounts received during the high-tax period."
+summary: ""
 authors: ["Laurent Bach", "Antoine Bozio", "Brice Fabre", "Arthur Guillouzouic", admin, "Clément Malgouyres"]
 tags: [dividends]
 categories: []
