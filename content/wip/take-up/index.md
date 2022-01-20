@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "static/media/BBFGLM_march_2021.pdf"
+url_pdf: ""
 url_slides: "" #""
 url_video: ""
 
