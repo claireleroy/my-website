@@ -9,7 +9,6 @@ categories: []
 date: 2019-11-18
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
