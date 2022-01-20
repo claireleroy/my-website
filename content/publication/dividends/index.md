@@ -9,7 +9,7 @@ categories: []
 date: 2019-11-18
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3494923"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
