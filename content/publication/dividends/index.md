@@ -7,6 +7,7 @@ authors: ["Laurent Bach", "Antoine Bozio", "Brice Fabre", "Arthur Guillouzouic",
 tags: [dividends]
 categories: []
 date: 2019-11-18
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://claire-leroy.netlify.app/publication/dividends/dividends.pdf"
