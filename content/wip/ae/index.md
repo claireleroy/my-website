@@ -3,7 +3,7 @@
 
 title: "Automatic Enrollment Into Welfare Programs"
 summary: ""
-authors: [admin]
+authors: [admin, "Kelsey Pukelis"]
 tags: []
 categories: []
 profile: false
