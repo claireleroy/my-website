@@ -66,4 +66,4 @@ user_groups:
 
 <p>&nbsp;</p>
 
-                              This website has moved [here](https://sites.google.com/view/claireleroy/home)
+This website has moved [here](https://sites.google.com/view/claireleroy/home)
