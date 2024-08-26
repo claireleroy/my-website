@@ -66,7 +66,4 @@ user_groups:
 
 <p>&nbsp;</p>
 
-
-I am a PhD candidate in Economics at [CREST](http://crest.science/) - [Ecole Polytechnique](https://www.polytechnique.edu/en) ([IP Paris](https://www.ip-paris.fr/en)) working under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Antoine Bozio](http://www.parisschoolofeconomics.com/bozio-antoine/en/).
-
-My research interests are in public economics and applied microeconomics.
+This website has moved [here](https://sites.google.com/view/claireleroy/home)
